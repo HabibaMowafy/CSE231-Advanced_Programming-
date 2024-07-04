@@ -1,13 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/javafx/FXMain.java to edit this template
- */
-package Question2;
-
 import java.util.Scanner;
 import javafx.application.Application;
-import javafx.event.ActionEvent;
-import javafx.event.EventHandler;
+import javafx.event.*;
 import javafx.geometry.Point2D;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
